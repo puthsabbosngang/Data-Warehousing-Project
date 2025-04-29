@@ -1,3 +1,3 @@
 # DLT Data Warehousing
 
-Welcome to the **DLT Datawarehousing Project** repository! :cambodia:
+Welcome to the **DLT Datawarehousing Project** repository! 🚀
