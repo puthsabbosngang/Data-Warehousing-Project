@@ -1,2 +1,3 @@
-# Data-Warehousing-Project
-Building a data warehouse with PostgreSQL, including ETL process, data modeling and analysis. 
+# DLT Data Warehousing
+
+Welcome to the **DLT Datawarehousing Project** repository! KH
